@@ -1,5 +1,6 @@
 # Credit Risk Classification Analysis and References
-#Analysis Overview
+
+# Analysis Overview
 The objective of this machine learning model is to assess the creditworthiness of borrowers. This document presents an analysis of the model's performance and provides a recommendation for the bank's utilization based on the findings. In the provided dataset, a loan_status value of 0 indicates a healthy loan, while a value of 1 signifies a high-risk loan.
 
 # Key Metrics Examined
